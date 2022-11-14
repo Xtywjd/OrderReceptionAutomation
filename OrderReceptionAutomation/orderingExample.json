@@ -1,0 +1,11 @@
+{
+  "fullName": "Иванов Иван Иванович",
+  "phoneNumber": "88005553535",
+  "email": "a@mail.com",
+  "products": [
+    {
+      "id": "6DDA0CB0-94D8-4B6D-8F3A-A17CF6F99351",
+      "count": 3
+    }
+  ]
+}
